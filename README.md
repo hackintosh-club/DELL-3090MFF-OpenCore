@@ -51,10 +51,10 @@
 | DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
 
 - Unlock CFG LOCK Address:0x3E  01 (Enabled) Replace 00（Disabled）
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/cpusetup.png)
+![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/RU/cpusetup.png)
 
 - Change DVMT Address:0xF5  00（Default） Replace 02（64MB）
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/sasetup.png)
+![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/RU/sasetup.png)
 
 
 ### ScreenShot 
