@@ -50,5 +50,7 @@
 | CFG LOCK | CPUSetup | 0x3E | 0x1 | 0x0 |
 | DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
 
+![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/cpusetup.png)
+![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/sasetup.png)
 
 ### ScreenShot 
