@@ -64,5 +64,6 @@
 ![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/关于本机.png)
 
 - Geekbench 5 i5-10500T
+
 ![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/geekbench 5.png)
 
