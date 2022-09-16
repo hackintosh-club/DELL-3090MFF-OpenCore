@@ -27,7 +27,7 @@
 ### Bios Setup
 
 | Name | Option |
-| ----- | ----- |
+| ----- | --- |
 | System Configuration → SATA Operation | AHCI |
 | Security → PTT Security/PTT On | Disabled |
 | Secure Boot → Secure Boot Enable | Disabled |
