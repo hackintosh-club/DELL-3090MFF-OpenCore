@@ -15,12 +15,12 @@
 
 - Motherboard: DELL Q470
 - Bios Version: 2.4.0
-- CPU: i5-10500t
+- CPU: Intel i5-10500t
 - RAM: Samsung 2x16GB DDR4 3200
 - SSD: West Digital SN750 500G
 - iGPU: Intel UHD Graphic 630
 - Audio: Realtek ALC256
-- Ethernet Card: Intel I219-LM
+- Ethernet Card: Realtek PCle GbE Family Controller
 - Wireless: BCM94360CS2
 - PSU: DELL 65W 
 
