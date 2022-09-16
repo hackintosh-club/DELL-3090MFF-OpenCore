@@ -59,4 +59,4 @@
 
 ### ScreenShot 
 - About This Mac
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/sasetup.png)
+![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/关于本机.png)
