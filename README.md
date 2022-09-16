@@ -15,7 +15,7 @@
 
 - Motherboard: DELL Q470
 - Bios Version: 2.4.0
-- CPU: 10500t
+- CPU: i5-10500t
 - RAM: Samsung 2x16GB DDR4 3200
 - SSD: West Digital SN750 500G
 - iGPU: Intel UHD Graphic 630
@@ -43,4 +43,12 @@
 ### Notes
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
  
+ - Use [RU.efi](http://ruexe.blogspot.com/) Unlock Cfg Lock , Change DVMT = 64M
+ 
+| Option | UEFI Variable Name | Address | Default | Replace |
+| --- | --- | --- | --- | --- |
+| CFG LOCK | CPUSetup | 0x3E | 0x1 | 0x0 |
+| DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
+
+
 ### ScreenShot 
