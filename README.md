@@ -43,7 +43,7 @@
 ### Notes
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
  
- - Use [RU.efi](http://ruexe.blogspot.com/) Unlock Cfg Lock , Change DVMT = 64M
+ - Use [RU.efi](http://ruexe.blogspot.com/) Unlock CFG LOCK , Change DVMT = 64MB
  
 | Option | UEFI Variable Name | Address | Default | Replace |
 | --- | --- | --- | --- | --- |
@@ -51,6 +51,8 @@
 | DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
 
 ![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/cpusetup.png)
+- Unlock CFG LOCK Address:0x3E  01 (Enabled) Replace 00（Disabled）
 ![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/RU/sasetup.png)
+- Change DVMT Address:0xF5  00（Default） Replace 02 （64MB）
 
 ### ScreenShot 
