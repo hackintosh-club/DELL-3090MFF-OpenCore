@@ -67,3 +67,6 @@
 
 ![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/geekbench.png)
 
+- Ventura Beta7 (22A5342f) 
+
+![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/Ventura.png)
