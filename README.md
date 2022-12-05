@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
