@@ -2,16 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-        <key>#By 5T33Z0</key>
-        <string>https://github.com/5T33Z0</string>
-        <key>#ConfigComment</key>
-        <string></string>
-        <key>#Notes</key>
-        <string>Use CPUFriendFriend to generate a custom CPUFriendDataProvider.kext. Check enabled kexts before deployment!</string>
-        <key>#SMBIOS: iMac20,1</key>
-        <string>For 10th Gen Intel Core i5/i7</string>
-        <key>#macOS Compatibility</key>
-        <string>macOS Catalina to macOS Monterey. Adjust csr-config-accordingly!</string>
+        <key>#About</key>
+        <string>B站UP：乌龙蜜桃来一打</string>
+        <key>#Website</key>
+        <string>https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore</string>
         <key>ACPI</key>
         <dict>
             <key>Add</key>
