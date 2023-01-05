@@ -2,7 +2,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.8](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -50,21 +50,21 @@
  | DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
  
  - 解锁CFG LOCK 地址:0x3E  01 (Enabled 默认为开启) 修改为 00（Disabled 禁用）
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/RU/cpusetup.png)
+![image](ScreenShot/RU/cpusetup.png)
 
  - 修改核显 DVMT 地址:0xF5  00（Default 默认值） 修改为 02（64兆）
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/RU/sasetup.png)
+![image](ScreenShot/RU/sasetup.png)
  
 ### 系统截图
 
 - 关于本机
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/关于本机.png)
+![image](ScreenShot/关于本机.png)
 
 - Geekbench5 跑分 i5-10500T 
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/geekbench.png)
+![image](ScreenShot/geekbench.png)
 
 - Ventura Beta7 (22A5342f) 
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/Ventura.png)
+![image](ScreenShot/Ventura.png)

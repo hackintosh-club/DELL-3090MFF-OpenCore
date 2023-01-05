@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.8.6](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.8.8](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -51,22 +51,22 @@
 | DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
 
 - Unlock CFG LOCK Address:0x3E  01 (Enabled) Replace 00（Disabled）
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/RU/cpusetup.png)
+![image](ScreenShot/RU/cpusetup.png)
 
 - Change DVMT Address:0xF5  00（Default） Replace 02（64MB）
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/RU/sasetup.png)
+![image](ScreenShot/RU/sasetup.png)
 
 
 ### ScreenShot 
 
 - About This Mac
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/关于本机.png)
+![image](ScreenShot/关于本机.png)
 
 - Geekbench5 Score i5-10500T 
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/geekbench.png)
+![image](ScreenShot/geekbench.png)
 
 - Ventura Beta7 (22A5342f) 
 
-![image](https://github.com/hackintosh-efi/DELL-3090MFF-OpenCore/blob/main/ScreenShot/Ventura.png)
+![image](ScreenShot/Ventura.png)
