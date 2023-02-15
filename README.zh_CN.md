@@ -1,5 +1,7 @@
 # DELL 3090 MFF 黑苹果 OpenCore EFI
 
+![image](ScreenShot/case.png)
+
 ### OpenCore
 
 [OpenCore 0.8.9](https://github.com/acidanthera/OpenCorePkg)
