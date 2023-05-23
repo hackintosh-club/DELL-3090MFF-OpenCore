@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -70,3 +70,9 @@
 - Ventura Beta7 (22A5342f) 
 
 ![image](ScreenShot/Ventura.png)
+
+### 联系我们 
+
+- QQ群: 23304408
+
+![image](ScreenShot/QRCode.png)
