@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.3](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -45,18 +45,18 @@
 
  - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
  - 使用 [RU.efi](http://ruexe.blogspot.com/) 解锁 CFG LOCK , 修改核显 DVMT = 64兆
- 
+
  | 选项 | UEFI Variable Name | 地址 | 默认值 | 替换值 |
  | --- | --- | --- | --- | --- |
  | CFG LOCK | CPUSetup | 0x3E | 0x1 | 0x0 |
  | DVMT | SaSetup | 0xF5 | 0x0 | 0x2 |
- 
+
  - 解锁CFG LOCK 地址:0x3E  01 (Enabled 默认为开启) 修改为 00（Disabled 禁用）
 ![image](ScreenShot/RU/cpusetup.png)
 
  - 修改核显 DVMT 地址:0xF5  00（Default 默认值） 修改为 02（64兆）
 ![image](ScreenShot/RU/sasetup.png)
- 
+
 ### 系统截图
 
 - 关于本机
