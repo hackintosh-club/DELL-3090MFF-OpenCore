@@ -72,7 +72,7 @@
 
 - Ventura 13.6 (22G120) 
 
-![image](ScreenShot/Ventura.png)
+![image](ScreenShot/Ventura.jpg)
 
 ### Contact Us 
 
