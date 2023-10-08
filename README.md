@@ -70,7 +70,7 @@
 
 ![image](ScreenShot/geekbench.png)
 
-- Ventura Beta7 (22A5342f) 
+- Ventura 13.6 (22G120) 
 
 ![image](ScreenShot/Ventura.png)
 
