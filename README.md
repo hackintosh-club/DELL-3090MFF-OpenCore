@@ -1,8 +1,15 @@
 # DELL 3090 MFF Hackintosh OpenCore EFI
 
+This fork contains a customised setup for DELL Optiplex 3090 MFF with a Intel Core i3 Processor
+macOS Sonoma 14.0 worked maybe earlier macOS versions will still running too
+
+谢谢 and BigUP the guys from [Hackintosh.Club](https://github.com/hackintosh-club) for share they work with us
+Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for 
+
+
 ![image](ScreenShot/case.png)
 
-### [简体中文](README.zh_CN.md)
+### (README.txt)
 
 ### OpenCore
 
@@ -10,23 +17,22 @@
 
 ### OS Version Tested
 
-- macOS Monterey 12.x
-- macOS Ventura  13.x 
-- macOS Sonoma  14.x 
+- macOS Sonoma  14.0
 
 ### Hardware
 
 - Motherboard: DELL Q470
-- Bios Version: 2.4.0
-- CPU: Intel i5-10500t
+- Bios Version: 2.4.0 - 2.14.0
+- CPU: Intel i3-10105T
 - RAM: Samsung 2x16GB DDR4 3200
-- SSD: West Digital SN750 500G
+- SSD: Samsung 970 EVO Plus 1 TB SSD M.2 via NVMe
 - iGPU: Intel UHD Graphic 630
 - Audio: Realtek ALC256
 - Ethernet Card: Realtek PCle GbE Family Controller
-- Wireless: BCM94360CS2
-- PSU: DELL 65W 
-
+- Wireless: xxxxxxxxxx
+- PSU: DELL 65W
+- Display Connectors: 2 DisplayPort 1.4
+  
 ### Bios Setup
 
 | Name | Option |
@@ -40,7 +46,7 @@
 | Power Management → USB Wake Support | Disabled |
 | Power Management → Wake on LAN/WLAN | Lan only |
 | Power Management → Block Sleep | Disabled |
-| POST Behavior → Fastboot | Minimal |
+| POST Behavior → Fastboot | Thorough |
 | Virtualization Support → VT For Direct I/O | Disabled |
 
 ### Notes
