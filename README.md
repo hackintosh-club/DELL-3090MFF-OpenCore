@@ -28,7 +28,7 @@ Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for
 - SSD: Samsung 970 EVO Plus 1 TB SSD M.2 via NVMe
 - iGPU: Intel UHD Graphic 630
 - Audio: Realtek ALC256
-- Ethernet Card: Realtek PCle GbE Family Controller
+- Ethernet Card: Intel I219-LM CMP(11)
 - Wireless: xxxxxxxxxx
 - PSU: DELL 65W
 - Display Connectors: 2 DisplayPort 1.4
@@ -41,13 +41,13 @@ Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for
 | Security → PTT Security/PTT On | Disabled |
 | Secure Boot → Secure Boot Enable | Disabled |
 | PSecure Boot → Secure Boot Mode | Audit Mode |
-| Intel Software Guard Extensions → Intel SGX Enable | Disabled |
+| Intel Software Guard Extensions → Intel SGX Enable | Enable |
 | Power Management → Deep Sleep Control | Disabled |
 | Power Management → USB Wake Support | Disabled |
 | Power Management → Wake on LAN/WLAN | Lan only |
-| Power Management → Block Sleep | Disabled |
+| Power Management → Block Sleep | Enable |
 | POST Behavior → Fastboot | Thorough |
-| Virtualization Support → VT For Direct I/O | Disabled |
+| Virtualization Support → VT For Direct I/O | Enable |
 
 ### Notes
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
@@ -72,16 +72,12 @@ Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for
 
 ![image](ScreenShot/关于本机.png)
 
-- Geekbench5 Score i5-10500T 
+- Geekbench5 Score i3-10105T 
 
-![image](ScreenShot/geekbench.png)
+![image](ScreenShot/bench.png)
 
 - Ventura 13.6 (22G120) 
 
-![image](ScreenShot/Ventura.jpg)
+![image](ScreenShot/Sonoma.jpg)
 
-### Contact Us 
 
-- QQ Group: 23304408
-
-![image](ScreenShot/QRCode.png)
