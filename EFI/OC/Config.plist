@@ -120,6 +120,8 @@
                 <true/>
                 <key>EnableWriteUnprotector</key>
                 <false/>
+                <key>FixupAppleEfiImages</key>
+                <false/>
                 <key>ForceBooterSignature</key>
                 <false/>
                 <key>ForceExitBootServices</key>
@@ -268,7 +270,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.6</string>
+                    <string>V1.8.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -676,13 +678,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C07210405GUKXPGFB</string>
+                <string>C073077004NKXPGAD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>1801</integer>
                 <key>ROM</key>
-                <data>fJVfAscS</data>
+                <data>bIMochhV</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -690,9 +692,9 @@
                 <key>SystemProductName</key>
                 <string>Macmini8,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C07HD0U6JYVX</string>
+                <string>C07K80H0JYVX</string>
                 <key>SystemUUID</key>
-                <string>A1F95E47-54EA-4377-A101-BD7122C052E1</string>
+                <string>8B2A05CF-211B-4B73-8153-B1FDADB8555B</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
