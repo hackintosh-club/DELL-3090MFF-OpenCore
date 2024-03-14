@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -39,12 +39,12 @@
 | Power Management → Wake on LAN/WLAN | Lan only 仅LAN|
 | Power Management → Block Sleep | 禁用 |
 | POST Behavior → Fastboot | Minimal |
-| Virtualization Support → VT For Direct I/O | 禁用 |
+| Virtualization Support → VT For Direct I/O | 启用 |
 
 
 ### 注意事项
 
- - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
+ - 安装系统后请使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成自己的 SMBIOS
  - 使用 [RU.efi](http://ruexe.blogspot.com/) 解锁 CFG LOCK , 修改核显 DVMT = 64兆
 
  | 选项 | UEFI Variable Name | 地址 | 默认值 | 替换值 |
@@ -57,6 +57,18 @@
 
  - 修改核显 DVMT 地址:0xF5  00（Default 默认值） 修改为 02（64兆）
 ![image](ScreenShot/RU/sasetup.png)
+
+### 参考内容
+
+[1.黑苹果安装过程演示](https://hackintosh.club/d/10000060)
+
+[2.英特尔无线网卡WiFi驱动](https://hackintosh.club/d/10000015)
+
+[3.英特尔无线网卡蓝牙驱动](https://hackintosh.club/d/10000017)
+
+[4.我的B站黑苹果教程](https://space.bilibili.com/244390800/video)
+
+[6.黑果之家](https://hackintosh.club/)
 
 ### 系统截图
 

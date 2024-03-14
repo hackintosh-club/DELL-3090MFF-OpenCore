@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -41,10 +41,10 @@
 | Power Management → Wake on LAN/WLAN | Lan only |
 | Power Management → Block Sleep | Disabled |
 | POST Behavior → Fastboot | Minimal |
-| Virtualization Support → VT For Direct I/O | Disabled |
+| Virtualization Support → VT For Direct I/O | Enabled |
 
 ### Notes
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your own SMBIOS
 
  - Use [RU.efi](http://ruexe.blogspot.com/) Unlock CFG LOCK , Change DVMT = 64MB
 
